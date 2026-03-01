@@ -9,7 +9,7 @@ This repository contains my learning progress for the FreeCodeCamp Python course
   
 
 ## Mini Projects
-- Bulding a Reprt Card Printer 
+- Bulding a Report Card Printer 
 - Building an Employee Profile Generator
 
 ## Notes
