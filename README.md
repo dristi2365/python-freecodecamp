@@ -4,13 +4,14 @@ This repository contains my learning progress for the FreeCodeCamp Python course
 
 ## Lessons Completed
 - Variables
-- Loops
-- Functions
-- Lists
+- Data Types
+- Strings
+- Numbers and Mathematical Operations
 
 ## Mini Projects
-- Number Guessing Game
-- Simple Calculator
+- Bulding a Report Card Printer 
+- Building an Employee Profile Generator
+- Building a Bill Splitter
 
 ## Notes
 - Notes and reflections for each lesson
