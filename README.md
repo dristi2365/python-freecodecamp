@@ -14,6 +14,7 @@ This repository contains my learning progress for the FreeCodeCamp Python course
 - Building an Employee Profile Generator
 - Building a Bill Splitter
 - Building a Movie Ticket Booking Calculator
+- Building a Travel Weather Planner
 
 ## Notes
 - Notes and reflections for each lesson
