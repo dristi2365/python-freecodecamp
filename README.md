@@ -7,11 +7,13 @@ This repository contains my learning progress for the FreeCodeCamp Python course
 - Data Types
 - Strings
 - Numbers and Mathematical Operations
+- Booleans and Conditionals
 
 ## Mini Projects
 - Bulding a Report Card Printer 
 - Building an Employee Profile Generator
 - Building a Bill Splitter
+- Building a Movie Ticket Booking Calculator
 
 ## Notes
 - Notes and reflections for each lesson
