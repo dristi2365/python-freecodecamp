@@ -8,6 +8,7 @@ This repository contains my learning progress for the FreeCodeCamp Python course
 - Strings
 - Numbers and Mathematical Operations
 - Booleans and Conditionals
+- Understanding Functions and Scope
 
 ## Mini Projects
 - Bulding a Report Card Printer 
@@ -15,6 +16,7 @@ This repository contains my learning progress for the FreeCodeCamp Python course
 - Building a Bill Splitter
 - Building a Movie Ticket Booking Calculator
 - Building a Travel Weather Planner
+- Building a Apply Discount Function
 
 ## Notes
 - Notes and reflections for each lesson
