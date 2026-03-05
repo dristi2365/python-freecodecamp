@@ -18,6 +18,7 @@ This repository contains my learning progress for the FreeCodeCamp Python course
 - Building a Travel Weather Planner
 - Building a Apply Discount Function
 - Building a Caesar Cipher
+- Building an RPG Character
 
 ## Notes
 - Notes and reflections for each lesson
