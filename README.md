@@ -9,6 +9,7 @@ This repository contains my learning progress for the FreeCodeCamp Python course
 - Numbers and Mathematical Operations
 - Booleans and Conditionals
 - Understanding Functions and Scope
+- Working with Loops and Sequences
 
 ## Mini Projects
 - Bulding a Report Card Printer 
