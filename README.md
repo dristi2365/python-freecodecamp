@@ -10,6 +10,7 @@ This repository contains my learning progress for the FreeCodeCamp Python course
 - Booleans and Conditionals
 - Understanding Functions and Scope
 - Working with Loops and Sequences
+- Dictionaries and Sets
 
 ## Mini Projects
 - Bulding a Report Card Printer 
