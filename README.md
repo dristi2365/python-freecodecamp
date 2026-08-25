@@ -11,6 +11,7 @@ This repository contains my learning progress for the FreeCodeCamp Python course
 - Understanding Functions and Scope
 - Working with Loops and Sequences
 - Dictionaries and Sets
+- Understanding Error Handling
 
 ## Mini Projects
 - Bulding a Report Card Printer 
