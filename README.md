@@ -12,6 +12,7 @@ This repository contains my learning progress for the FreeCodeCamp Python course
 - Working with Loops and Sequences
 - Dictionaries and Sets
 - Understanding Error Handling
+- Classes and Objects
 - Understanding OOP and Encapsulation
 
 ## Mini Projects
